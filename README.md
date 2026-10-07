@@ -1,2 +1,3 @@
 # College-project
-It is a mini-project of disease identification by using patience symptoms 
+An ensemble Transformer framework for disease classification from patient-generated text.
+
